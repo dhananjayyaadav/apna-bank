@@ -8,10 +8,10 @@ This App is avaiable at [this link](https://bucolic-taffy-b95a6f.netlify.app/).
 
 In this app we have 2 users with:
 <br />
-Username: js <br /> Password: 1234
+Username: dy <br /> Password: 1234
 <br />
 <br />
-Username: jd <br /> Password: 4321
+Username: ay <br /> Password: 4321
 <br />
 <br />
 The users transactions will be display when they are logged in. They also can perform new transactions like requesting a loan, or transfering money to other accounts and also delete thier own account.
